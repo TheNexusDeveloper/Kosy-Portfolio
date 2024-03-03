@@ -3,7 +3,7 @@ import { Card, Col, Container, Row } from 'react-bootstrap'
 
 function Services() {
   return (
-    <div style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Services' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
         <Container>
         <Row className="text-center py-5">
             <h2>--- Some of the things I do ---</h2>
@@ -37,7 +37,7 @@ function Services() {
                 </Col>
 
                 <Col>
-                    <Card className="py-3 mb-5 text-center" style={{ width: '18rem', backgroundColor: '#119EH4', color: ' whitesmoke', }}>
+                    <Card className="py-3 mb-5 text-center" style={{ width: '18rem', backgroundColor: '#119EH4', color: ' black', }}>
                         <Card.Title>Network Design</Card.Title>
                         <Card.Subtitle>CISCO</Card.Subtitle>
                         <Card.Body>

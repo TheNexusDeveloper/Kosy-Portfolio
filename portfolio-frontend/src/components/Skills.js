@@ -4,7 +4,7 @@ import html from '../assets/html-5.png'
 
 function Skills() {
   return (
-    <div style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Skills' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
         <Container>
             <Row className="text-center py-3">
                 <h2>--- My Tech Stack and Tools ---</h2>
