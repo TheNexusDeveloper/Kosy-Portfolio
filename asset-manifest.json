@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Kosy-Portfolio/static/css/main.9d392a35.css",
+    "main.js": "/Kosy-Portfolio/static/js/main.c0233569.js",
+    "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
+    "static/media/cover1.jpg": "/Kosy-Portfolio/static/media/cover1.99dcda21433f22bc688a.jpg",
+    "static/media/portrait1.jpg": "/Kosy-Portfolio/static/media/portrait1.b4561032a4eae9f44677.jpg",
+    "static/media/NEXUS- THE BRAND [Recovered]-02.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-02.179721fd34dcc80ecfa6.jpg",
+    "static/media/kosyLogo.jpg": "/Kosy-Portfolio/static/media/kosyLogo.8ec0042dae7410bc4620.jpg",
+    "index.html": "/Kosy-Portfolio/index.html",
+    "main.9d392a35.css.map": "/Kosy-Portfolio/static/css/main.9d392a35.css.map",
+    "main.c0233569.js.map": "/Kosy-Portfolio/static/js/main.c0233569.js.map",
+    "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d392a35.css",
+    "static/js/main.c0233569.js"
+  ]
+}
