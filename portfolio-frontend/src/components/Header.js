@@ -42,7 +42,7 @@ function Header() {
         <Navbar collapseOnSelect expand="lg" fixed='top'  bg={navbarBg}  variant='dark' className="" style={{ backgroundColor: navbarBg,  }}>
             <Container>
                 <Navbar.Brand href="/">
-                    <img src={logo} alt='Kosy Logo' width='150px'/>
+                    <img src={logo} alt='Kosy Logo' width='120px'/>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
