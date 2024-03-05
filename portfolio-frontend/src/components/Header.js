@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap'
 import './Header.css';
-import logo from '../assets/kosyLogo.jpg'
+import logo from '../assets/kosyLogo2.png'
 
 function Header() {
     // const [linkColor, setLinkColor] = useState('dark');
