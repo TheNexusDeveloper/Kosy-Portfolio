@@ -17,7 +17,7 @@ function ShowCase() {
         
                         {/* <a href="Resume - Kosisochukwu Okeke.pdf" target="_blank">Get My Resume </a> */}
 
-                        <Button variant='outline-info' className='rounded-5' size='lg'>Get my Resume</Button>
+                        <a href='https://drive.google.com/file/d/103FWHOAf8TnWtpx98QXOH10ryLCsXeU3/view?usp=drive_link' target='_blank' rel='noreferrer'><Button variant='outline-info' className='rounded-5' size='lg'>Get my Resume</Button></a>
                     </div>
         </Container>
     </div>

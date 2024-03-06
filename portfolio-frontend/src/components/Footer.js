@@ -58,7 +58,8 @@ function Footer() {
 
             <Row className='text-center'>
                 <Col>
-                    <a href="https://www.flaticon.com" title="html icons">icons created by Freepik - Flaticon</a>
+                    <a href="https://www.flaticon.com" title="html icons">icons created by Freepik - Flaticon</a> <br/>
+                    <em>Logo  styled and Designed by <a href='https://www.instagram.com/theartof_cho/'>The Art of CHO</a></em>
                     <p>&copy; Kosy Okeke 2024</p>
                 </Col>
             </Row>
