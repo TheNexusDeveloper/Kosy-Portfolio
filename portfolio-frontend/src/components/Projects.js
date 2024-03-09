@@ -1,5 +1,5 @@
 import React from 'react'
-import { Row, Col, Container, Nav, NavDropdown } from 'react-bootstrap'
+import { Row, Col, Container, Nav } from 'react-bootstrap'
 
 function Projects() {
     // const handleSelect = (eventKey) => alert(`selected ${eventKey}`);
@@ -14,7 +14,7 @@ function Projects() {
 
             <Row>
                 <Col className='py-3'>
-                    <Nav className="justify-content-center" variant="pills" defaultActiveKey="/home">
+                    <Nav className="justify-content-center" variant="pills" defaultActiveKey="#/home">
                         <Nav.Item>
                             <Nav.Link eventKey="1" href="#/home">
                             Web Apps

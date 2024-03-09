@@ -7,7 +7,7 @@ function Footer() {
     <footer className='py-3' style={{backgroundColor: 'black', color: 'whitesmoke', textDecoration: 'none', listStyleType: 'none',}}>
         <Container>
             <Row className='py-3' >
-                <Col className='mb-3 text-center'>
+                <Col className='mb-3 text-center' lg={6} md={12} sm={12}>
                     <Row>
                         <Col lg={12}>
                             <img src={Footlogo} alt='logo' width='300px'/>
@@ -23,7 +23,7 @@ function Footer() {
                     </Row>
                 </Col>
 
-                <Col>
+                <Col lg={3} md={6} sm={12}>
                     <Row className='py-3'>
                         <Col className='text-center'><h3>Contact</h3></Col>
                         <Col className='py-3'>
@@ -37,7 +37,7 @@ function Footer() {
                     
                 </Col>
 
-                <Col>
+                <Col lg={3} md={6} sm={12}>
                     <Row className='p-3'>
                         <Col className='' lg={12}><h3>Navigation</h3></Col>
                         <Col className='py-3'>
