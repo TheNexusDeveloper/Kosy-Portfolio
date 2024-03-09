@@ -1,7 +1,6 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import MySkills from '../MySkills'
-import SkillCard from './SkillCard'
 // import html from '../assets/html-5.png'
 
 function Skills() {

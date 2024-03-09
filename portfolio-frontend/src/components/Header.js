@@ -44,8 +44,8 @@ function Header() {
                 <Navbar.Brand href="/">
                     <img src={logo} alt='Kosy Logo' width='120px'/>
                 </Navbar.Brand>
-                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-                <Navbar.Collapse id="responsive-navbar-nav">
+                <Navbar.Toggle aria-controls="navbarScroll" />
+                <Navbar.Collapse id="navbarScroll">
                 <Nav className="me-auto">
                     <Nav.Link href="#About">About</Nav.Link>
                     <Nav.Link href="#Services">Services</Nav.Link>
