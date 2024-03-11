@@ -10,7 +10,7 @@ function Services() {
         </Row>
 
             <Row className="text-center py-3" style={{ justifyContent: 'center', alignItems: 'center', margin: 'auto'}}>
-                <Col>
+                <Col className='d-flex justify-content-center align-items-center'>
                     <Card className="py-3 mb-5 text-center" style={{ width: '18rem', backgroundColor: '#119EF4', color: ' whitesmoke', }}>
                         <Card.Title>Web Design</Card.Title>
                         <Card.Subtitle>FIGMA</Card.Subtitle>
@@ -23,7 +23,7 @@ function Services() {
                     </Card>
                 </Col>
 
-                <Col>
+                <Col className='d-flex justify-content-center align-items-center'>
                     <Card className="py-3 mb-5 text-center" style={{ width: '18rem', backgroundColor: 'black', color: ' whitesmoke',}}>
                         <Card.Title>Web development</Card.Title>
                         <Card.Subtitle>React/Django</Card.Subtitle>
@@ -36,7 +36,7 @@ function Services() {
                     </Card>
                 </Col>
 
-                <Col>
+                <Col className='d-flex justify-content-center align-items-center'>
                     <Card className="py-3 mb-5 text-center" style={{ width: '18rem', backgroundColor: '#119EH4', color: ' black', }}>
                         <Card.Title>Network Design</Card.Title>
                         <Card.Subtitle>CISCO</Card.Subtitle>

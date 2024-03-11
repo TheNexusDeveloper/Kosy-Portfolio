@@ -7,7 +7,7 @@ function Contact() {
     <div id='Contact'>
         <Container>
             <Row>
-                <Col className='py-5'>
+                <Col className='py-5' lg={6} md={12} sm={12}>
                     <h2>Have project in mind?</h2>
                     <p>
                         Get in touch with me <br/>
