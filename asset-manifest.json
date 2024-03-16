@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kosy-Portfolio/static/css/main.843ca83e.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.5e3f0c7a.js",
+    "main.js": "/Kosy-Portfolio/static/js/main.17e2f579.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
     "static/media/cover1.jpg": "/Kosy-Portfolio/static/media/cover1.99dcda21433f22bc688a.jpg",
     "static/media/Coursera Z5D8G3RE8H5S_page-0001.jpg": "/Kosy-Portfolio/static/media/Coursera Z5D8G3RE8H5S_page-0001.e4385eec9401e42add3d.jpg",
@@ -11,11 +11,11 @@
     "static/media/kosyLogo3.png": "/Kosy-Portfolio/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
     "index.html": "/Kosy-Portfolio/index.html",
     "main.843ca83e.css.map": "/Kosy-Portfolio/static/css/main.843ca83e.css.map",
-    "main.5e3f0c7a.js.map": "/Kosy-Portfolio/static/js/main.5e3f0c7a.js.map",
+    "main.17e2f579.js.map": "/Kosy-Portfolio/static/js/main.17e2f579.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.843ca83e.css",
-    "static/js/main.5e3f0c7a.js"
+    "static/js/main.17e2f579.js"
   ]
 }
