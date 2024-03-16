@@ -2,7 +2,8 @@
     background: url(../assets/cover1.jpg);
       /* Set a specific height */
       height: 100vh;
-      padding: 30px 0;
+      /* width: fit-content; */
+      /* padding: 0px 0; */
     
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -14,18 +15,27 @@
 }
 
 .showcase h1{
-    font-size: 3rem;
-    line-height: 50px;
+    font-size: 2.8rem;
+    line-height: 2.7rem;
     
 }
 
 .showcase h2{
     font-size: 1.5rem;
-    line-height: 50px;
+    line-height: 1.8rem;
 }
 
 .showcase p{
-    font-size: 1.5em;
-    line-height: 40px;
-    margin-bottom: 50px;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    /* margin-bottom: 10%; */
+}
+
+.s-image{
+    filter: grayscale(80%);
+}
+
+.s-image:hover{
+    filter: grayscale(0%);
+    /* box-shadow: rgba(128, 128, 128, 0.521) 2px 2px 1px 5px; */
 }

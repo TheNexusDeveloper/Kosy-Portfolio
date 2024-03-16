@@ -12,30 +12,30 @@ function About() {
 
     <Container>
         <Row>
-            <Col className="py-3" lg={6} md={8} sm={12}>
+            <Col className="py-3" lg={8} md={8} sm={12}>
                 <p>
-                    My name is Kosisochukwu Henry Okeke, a software developer based in Lagos, Nigeria.
+                    Hey there!🫡 My name is Kosisochukwu Henry Okeke, a software developer/Network Engineer based in Lagos, Nigeria.
                     Graduate of Computer Engineering from Madonna University Nigeria.
                     
                 </p>
                     <br/>
                 <p>
-                    Technology has always been a niche from a very young age. I always wanted to figure out how things work and create things.
-                    My very first programming language was QBASIC (LOL) which I was introduced to in 2013 then JAVA in 2014 (never went back to it), HTML and CSS in 2015, and finally python in 2018.
-                    I started programming in 2020 during the COVID-19 lockdown. I used this period learning JavaScript and python
+                   I have always been heavily invested in tech from a very young age. QBASIC was the first programming language I ever encountered in Junior High School.
+                   This was followed by Java and then HTML and CSS in my final years of High school. 
+                   I Started coding in 2020 during the COVID-19 lockdown. During this period, I learnt Python and JavaScript. 
                 </p>
                     <br/>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Unde sunt sapiente ea at explicabo inventore nostrum modi nesciunt dolore facilis, aut maiores maxime tempore cupiditate incidunt voluptatem laborum. 
-                    Delectus, quis?
+                    I am skilled in frontend development using ReactJs and Redux for state management, Django and RESTful API for backend 
+                    and FIGMA for UI/UX Design.
+                    In addition to coding, I'm also skilled and knowledgeable in DevOps principles and tools, Network Automation and Operations, Network Architectural Design and Network Troubleshooting. 
                 </p>
 
             </Col>
 
             <Col>
                 <div className="pb-5">
-                    <img src={profile} alt="Kosy Okeke" width="100%" />
+                    <img src={profile} alt="Kosy Okeke" width="100%"  className='s-image rounded-5 border' />
                 </div>
             </Col>
         </Row>
