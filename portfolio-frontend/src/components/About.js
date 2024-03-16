@@ -22,7 +22,7 @@ function About() {
                 <p>
                    I have always been heavily invested in tech from a very young age. QBASIC was the first programming language I ever encountered in Junior High School.
                    This was followed by Java and then HTML and CSS in my final years of High school. 
-                   I Started coding in 2020 during the COVID-19 lockdown. During this period, I learnt Python and JavaScript. 
+                   I Started learning to code in 2020 during the COVID-19 lockdown and started coding in 2021. During this period, I learnt Python and JavaScript and their respective frameworks ReactJS and Django. 
                 </p>
                     <br/>
                 <p>
