@@ -2,6 +2,7 @@ import React from 'react'
 import { Col, Container, Row, Carousel } from 'react-bootstrap'
 import metacert from '../assets/MetaFront-EndDeveloperCertificate_Badge20240120-29-j0ys2k_page-0001.jpg'
 import netcert from '../assets/Coursera Z5D8G3RE8H5S_page-0001.jpg'
+import cert from '../assets/Coursera 2B4446VFWQ8V_page-0001.jpg'
 
 function Certifications() {
   return (
@@ -14,35 +15,36 @@ function Certifications() {
             </Row>
 
             <Row>
-                <Carousel fade data-bs-theme="dark">
+                <Carousel fade data-bs-theme="dark" size='md' className=''>
                     <Carousel.Item>
                         <img src={metacert} alt='certificate' width='100%'/>
-                        <Carousel.Caption>
+                        {/* <Carousel.Caption>
                             <h3>First slide label</h3>
                             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                        </Carousel.Caption>
+                        </Carousel.Caption> */}
+                    </Carousel.Item>
+
+                    <Carousel.Item>
+                        <img src={cert} alt='certificate' width='100%' />
+                        {/* <Carousel.Caption>
+                            <h3>Second slide label</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </Carousel.Caption> */}
                     </Carousel.Item>
 
                     <Carousel.Item>
                         <img src={netcert} alt='certificate' width='100%' />
-                        <Carousel.Caption>
-                            <h3>Second slide label</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                        </Carousel.Caption>
-                    </Carousel.Item>
-
-                    <Carousel.Item>
-                        <img src={metacert} alt='certificate' width='100%' />
-                        <Carousel.Caption>
+                        {/* <Carousel.Caption>
                         <h3>Third slide label</h3>
                         <p>
                             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
                         </p>
-                        </Carousel.Caption>
+                        </Carousel.Caption> */}
                     </Carousel.Item>
                 </Carousel>
             </Row>
-            <Row className='mb-3'>
+
+            {/* <Row className='mb-3'>
                 <Col>
                     <div>
                         <img src={metacert} alt='META-CERT' width='100%'/>
@@ -59,9 +61,9 @@ function Certifications() {
                     <br/>
              
             </Col>
-            </Row>
+            </Row> */}
 
-            <Row>
+            {/* <Row>
                 <Col>
                     <div>
                         <img src={netcert} alt='META-CERT' width='100%'/>
@@ -78,7 +80,7 @@ function Certifications() {
                     <br/>
              
             </Col>
-            </Row>
+            </Row> */}
         </Container>
     </div>
   )

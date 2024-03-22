@@ -28,7 +28,8 @@ function About() {
                 <p>
                     I am skilled in frontend development using ReactJs and Redux for state management, Django and RESTful API for backend 
                     and FIGMA for UI/UX Design.
-                    In addition to coding, I'm also skilled and knowledgeable in DevOps principles and tools, Network Automation and Operations, Network Architectural Design and Network Troubleshooting. 
+                    In addition to coding, I'm also skilled and knowledgeable in DevOps principles and tools, Network Automation and Operations, Network Architectural Design and Network Troubleshooting.
+                    I'm a lover food, music and Superhero comics. 
                 </p>
 
             </Col>
