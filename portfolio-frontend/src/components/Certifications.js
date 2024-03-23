@@ -6,7 +6,7 @@ import cert from '../assets/Coursera 2B4446VFWQ8V_page-0001.jpg'
 
 function Certifications() {
   return (
-    <div id='Cert' className='py-5' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Cert' className='py-5'>
         <Container>
             <Row className='text-center mb-5'>
                 <Col>

@@ -1,10 +1,14 @@
 import React from 'react'
 import { Row, Col, Container, Nav } from 'react-bootstrap'
+// import { HashRouter as Router, Route} from 'react-router-dom'
+import web from './WebProjects'
+import mobile from './MobileProjects'
+import network from './NetworkProjects'
 
 function Projects() {
     // const handleSelect = (eventKey) => alert(`selected ${eventKey}`);
   return (
-    <div id='Projects' className='py-3' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Projects' className='py-3'>
         <Container>
             <Row className='text-center py-3'>
                 <Col>
@@ -21,12 +25,12 @@ function Projects() {
                             </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link eventKey="2" title="Item">
+                            <Nav.Link eventKey="2" title="Item" href='/mobile-projects'>
                             Mobile Apps
                             </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link eventKey="3">
+                            <Nav.Link eventKey="3" href='/network-projects'>
                             Network Designs 
                             </Nav.Link>
                         </Nav.Item>

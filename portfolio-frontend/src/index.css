@@ -35,4 +35,9 @@ html{
 
 .main{
     min-height: 80vh;
-  }
+}
+
+.gradient-bg{
+    background-image: linear-gradient(to bottom, #16213e, #000435, rgb(0, 0, 0));
+    color: whitesmoke;
+}

@@ -3,7 +3,7 @@ import { Card, Col, Container, Row } from 'react-bootstrap'
 
 function Services() {
   return (
-    <div id='Services' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Services'>
         <Container>
         <Row className="text-center py-5">
             <h2>--- Some of the things I do ---</h2>

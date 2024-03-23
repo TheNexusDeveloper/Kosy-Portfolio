@@ -6,7 +6,7 @@ import './Skills.css'
 
 function Skills() {
   return (
-    <div id='Skills' style={{backgroundColor: "#16213e", color: "whitesmoke"}}>
+    <div id='Skills'>
         <Container>
             <Row className="text-center py-3">
                 <h2>--- My Tech Stack and Tools ---</h2>

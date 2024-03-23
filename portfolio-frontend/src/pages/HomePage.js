@@ -12,10 +12,12 @@ function HomePage() {
     <div className='main'>
         <ShowCase/>
         <About/>
-        <Services/>
-        <Skills/>
-        <Projects/>
-        <Certifications/>
+        <div className='gradient-bg'>
+            <Services/>
+            <Skills/>
+            <Projects/>
+            <Certifications/>
+        </div>
         <Contact/>
     </div>
   )
