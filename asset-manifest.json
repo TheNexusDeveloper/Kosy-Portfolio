@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Kosy-Portfolio/static/css/main.6166e7fb.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.8376c948.js",
+    "main.css": "/Kosy-Portfolio/static/css/main.402ca13e.css",
+    "main.js": "/Kosy-Portfolio/static/js/main.d22078eb.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
     "static/media/cover1.jpg": "/Kosy-Portfolio/static/media/cover1.99dcda21433f22bc688a.jpg",
     "static/media/Coursera Z5D8G3RE8H5S_page-0001.jpg": "/Kosy-Portfolio/static/media/Coursera Z5D8G3RE8H5S_page-0001.e4385eec9401e42add3d.jpg",
     "static/media/Coursera 2B4446VFWQ8V_page-0001.jpg": "/Kosy-Portfolio/static/media/Coursera 2B4446VFWQ8V_page-0001.dea89e9863cdc52824b8.jpg",
     "static/media/portrait1.jpg": "/Kosy-Portfolio/static/media/portrait1.b4561032a4eae9f44677.jpg",
     "static/media/NEXUS- THE BRAND [Recovered]-02.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-02.179721fd34dcc80ecfa6.jpg",
+    "static/media/Screenshot 2.png": "/Kosy-Portfolio/static/media/Screenshot 2.8b972bd4fe008d1aa3be.png",
+    "static/media/Screenshot (14).png": "/Kosy-Portfolio/static/media/Screenshot (14).3886ea9be7500689a964.png",
     "static/media/MetaFront-EndDeveloperCertificate_Badge20240120-29-j0ys2k_page-0001.jpg": "/Kosy-Portfolio/static/media/MetaFront-EndDeveloperCertificate_Badge20240120-29-j0ys2k_page-0001.880eba99dac66b6221e8.jpg",
     "static/media/kosyLogo3.png": "/Kosy-Portfolio/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
     "index.html": "/Kosy-Portfolio/index.html",
-    "main.6166e7fb.css.map": "/Kosy-Portfolio/static/css/main.6166e7fb.css.map",
-    "main.8376c948.js.map": "/Kosy-Portfolio/static/js/main.8376c948.js.map",
+    "main.402ca13e.css.map": "/Kosy-Portfolio/static/css/main.402ca13e.css.map",
+    "main.d22078eb.js.map": "/Kosy-Portfolio/static/js/main.d22078eb.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6166e7fb.css",
-    "static/js/main.8376c948.js"
+    "static/css/main.402ca13e.css",
+    "static/js/main.d22078eb.js"
   ]
 }
