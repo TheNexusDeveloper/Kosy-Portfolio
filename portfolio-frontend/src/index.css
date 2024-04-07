@@ -37,6 +37,16 @@ html{
     min-height: 80vh;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#Contact a:hover{
+    color: #274fbe ;
+
+}
+
 .gradient-bg{
     background-image: linear-gradient(to bottom, #16213e, #000435, rgb(0, 0, 0));
     color: whitesmoke;

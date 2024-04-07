@@ -4,7 +4,7 @@ import Footlogo from '../assets/My Brand/NEXUS- THE BRAND [Recovered]-02.jpg'
 
 function Footer() {
   return (
-    <footer className='py-3' style={{backgroundColor: 'black', color: 'whitesmoke', textDecoration: 'none', listStyleType: 'none',}}>
+    <footer className='py-3' style={{backgroundColor: 'black', color: 'whitesmoke', textDecoration: 'none', listStyleType: 'none', textDecorationColor: 'none'}}>
         <Container>
             <Row className='py-3' >
                 <Col className='mb-3 text-center' lg={4} md={12} sm={12}>
@@ -52,7 +52,7 @@ function Footer() {
             <Row className='text-center'>
                 <Col>
                     <a href="https://www.flaticon.com" title="html icons">icons created by Freepik - Flaticon</a> <br/>
-                    <em>Logo  styled and Designed by <a href='https://www.instagram.com/theartof_cho/'>The Art of CHO</a></em>
+                    <p>Logo  styled and Designed by <span><em><a href='https://www.instagram.com/theartof_cho/' style={{textDecoration: 'dotted', color: 'blue'}}>The Art of CHO</a></em></span></p>
                     <p>&copy; Kosy Okeke 2024</p>
                 </Col>
             </Row>

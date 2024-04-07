@@ -12,7 +12,13 @@ function About() {
 
     <Container>
         <Row>
-            <Col className="py-3" lg={8} md={8} sm={12}>
+        <Col>
+                <div className="pb-5">
+                    <img src={profile} alt="Kosy Okeke" width="100%"  className='s-image rounded-5 border' />
+                </div>
+            </Col>
+
+            <Col className="py-3" lg={6} md={12} sm={12}>
                 <p>
                     Hey there!🫡 My name is Kosisochukwu Henry Okeke, a software developer/Network Engineer based in Lagos, Nigeria.
                     Graduate of Computer Engineering from Madonna University Nigeria.
@@ -34,11 +40,7 @@ function About() {
 
             </Col>
 
-            <Col>
-                <div className="pb-5">
-                    <img src={profile} alt="Kosy Okeke" width="100%"  className='s-image rounded-5 border' />
-                </div>
-            </Col>
+           
         </Row>
        
 
