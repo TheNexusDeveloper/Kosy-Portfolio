@@ -14,7 +14,7 @@ function About() {
         <Row>
         <Col>
                 <div className="pb-5">
-                    <img src={profile} alt="Kosy Okeke" width="100%"  className='s-image rounded-5 border' />
+                    <img src={profile} alt="Kosy Okeke" width="100%"  className='rounded-5 border' />
                 </div>
             </Col>
 

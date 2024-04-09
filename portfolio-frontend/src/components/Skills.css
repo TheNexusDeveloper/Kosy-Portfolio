@@ -1,9 +1,6 @@
-.skill-image{
-    filter: grayscale(60%);
-}
 
 .skill-image:hover{
-    filter: grayscale(0%);
+    /* filter: grayscale(0%); */
     transform: scale(2,2);
     transition: ease-in-out 1s;
 }

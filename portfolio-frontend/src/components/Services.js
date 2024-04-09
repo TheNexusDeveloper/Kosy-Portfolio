@@ -18,7 +18,7 @@ function Services() {
                            Leveraging the power of FIGMA to create intuitive User interfaces for Applications and other Software products. 
                            I develop final product's prototype following User Experience principles to make the final product intuitive and absolutely user friendly. 
                         </Card.Body>
-                        <Card.Link>Learn More</Card.Link>
+                        
                     </Card>
                 </Col>
 
@@ -31,7 +31,7 @@ function Services() {
                             Leveraging the power of the world wide web to create an online presence for Businesses and individuals. 
                             Applying Software development principles for timely delivery.
                         </Card.Body>
-                        <Card.Link>Learn More</Card.Link>
+                        
                     </Card>
                 </Col>
 
@@ -44,7 +44,7 @@ function Services() {
                             Leveraging the power of CISCO packet tracer to determine to best architecture and security policies for your business 
                             to enable to smooth running of daily activities involving internet Operations. 
                         </Card.Body>
-                        <Card.Link>Learn More</Card.Link>
+                        
                     </Card>
                 </Col>
             </Row>
