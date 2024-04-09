@@ -38,7 +38,7 @@ function Header() {
     <div style={{width: '100%',}}>
         <Navbar collapseOnSelect expand="lg" fixed='top'  bg={navbarBg}  variant='dark' className="mb-3" style={{   }}>
             <Container>
-                <Navbar.Brand href="/">
+                <Navbar.Brand href="/Kosy-Portfolio/">
                     <img src={logo} alt='Kosy Logo' width='120px'/>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="offcanvasNavbar" />
