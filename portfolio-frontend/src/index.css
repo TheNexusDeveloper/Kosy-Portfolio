@@ -33,8 +33,8 @@ html{
     background: gray; 
 }
 
-.main{
-    min-height: 80vh;
+main{
+    /* min-height: 10vh; */
 }
 
 a{
@@ -48,6 +48,26 @@ a{
 }
 
 .gradient-bg{
-    background-image: linear-gradient(to bottom, #16213e, #000435, rgb(0, 0, 0));
+    background-image: linear-gradient(to bottom, #000435, rgb(0, 0, 0));
     color: whitesmoke;
+}
+
+.more{
+    width: 100%;
+    text-align: center;
+    padding: 50px 0;
+    background-color: #4ab9e275;
+}
+
+.more:hover{
+    background-color: #4ab9e21e;
+}
+.more a{
+    text-decoration: none;
+    color: #f3f3f3;
+    
+}
+
+.more a:hover{
+    color: #4ab9e2;
 }

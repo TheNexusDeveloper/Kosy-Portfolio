@@ -3,13 +3,14 @@ import { HashRouter as Router, Route, Routes} from 'react-router-dom'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage'
+// import ProductDetails from './components/ProjectDetails'
 import './App.css';
 import Loader from './components/Loader';
 
 function App() {
     const [loading, setLoading] = useState(true)
     useEffect(() => {
-        setTimeout(() => setLoading(false), 3300)
+        setTimeout(() => setLoading(false), 2000)
     }, [])
     if (loading) {
         return <Loader/>
@@ -17,10 +18,13 @@ function App() {
   return (
     <Router>
         <Header/>
-        {/* <Routes>
-            <Route path='/' element={HomePage} exact></Route>
-        </Routes> */}
-        <HomePage/>
+        <main>
+            <Routes>
+                <Route path='/' element={<HomePage/>} exact/>
+                {/* <Route path='/project/:id' element={<ProductDetails/>} /> */}
+            </Routes>
+        </main>
+        
         <Footer/>
     </Router>
   );
