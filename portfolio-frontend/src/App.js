@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom'
+import { HashRouter as Router, Route, Routes} from 'react-router-dom'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage'
@@ -19,10 +19,12 @@ function App() {
     <Router>
         <Header/>
         <main>
-            <Routes>
+            {/* <Routes>
                 <Route path='/' element={<HomePage/>} exact/>
-                {/* <Route path='/project/:id' element={<ProductDetails/>} /> */}
-            </Routes>
+               
+            </Routes> */}
+
+            <HomePage/>
         </main>
         
         <Footer/>
