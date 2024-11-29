@@ -19,6 +19,12 @@ import ubuntu from './assets/ubuntu.png'
 import windows from './assets/windows.png'
 import drf from './assets/drf-logo3.png'
 import vscode from './assets/visual-studio-code.png'
+import vyos from './assets/vyos.png'
+import solarwinds from './assets/solarwinds.png'
+import aws from './assets/aws.png'
+import bash from './assets/gnu-bash.png'
+import vmware from './assets/vmware.png'
+import ansible from './assets/ansible.png'
 
 const MySkills = [
     {
@@ -101,7 +107,7 @@ const MySkills = [
 
     {
         '_id': '14',
-        'name': 'GitHub',
+        'name': 'Github',
         'image': github
     },
 
@@ -113,25 +119,25 @@ const MySkills = [
 
     {
         '_id': '16',
-        'name': 'CISCO',
+        'name': 'Cisco Technologies',
         'image': cisco
     },
 
     {
         '_id': '17',
-        'name': 'linux',
+        'name': 'linux systems ',
         'image': linux
     },
 
     {
         '_id': '18',
-        'name': 'Ubuntu',
+        'name': 'Ubuntu desktop / Server',
         'image': ubuntu
     },
 
     {
         '_id': '19',
-        'name': 'Windows',
+        'name': 'Windows desktop/Server',
         'image': windows
     },
 
@@ -147,6 +153,41 @@ const MySkills = [
         'image': drf
     },
 
+    { 
+        '_id': '22',
+        'name': 'Bash Shell Scripting ',
+        'image': bash
+    },
+
+    { 
+        '_id': '22',
+        'name': 'Vmware',
+        'image': vmware
+    },
+
+    { 
+        '_id': '22',
+        'name': 'Vyos',
+        'image': vyos
+    },
+
+    { 
+        '_id': '22',
+        'name': 'Solarwinds NPM',
+        'image': solarwinds
+    },
+
+    { 
+        '_id': '22',
+        'name': 'Amazon Web Services',
+        'image': aws
+    },
+
+    { 
+        '_id': '22',
+        'name': 'Ansible',
+        'image': ansible
+    },
 ]
 
 export default MySkills
