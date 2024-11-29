@@ -1,11 +1,8 @@
 {
   "files": {
-    "main.css": "/Kosy-Portfolio/static/css/main.fdde5844.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.61cc1c49.js",
+    "main.css": "/Kosy-Portfolio/static/css/main.dc5ec88b.css",
+    "main.js": "/Kosy-Portfolio/static/js/main.a4d97b4f.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
-    "static/media/cover1.jpg": "/Kosy-Portfolio/static/media/cover1.99dcda21433f22bc688a.jpg",
-    "static/media/Coursera Z5D8G3RE8H5S_page-0001.jpg": "/Kosy-Portfolio/static/media/Coursera Z5D8G3RE8H5S_page-0001.e4385eec9401e42add3d.jpg",
-    "static/media/Coursera 2B4446VFWQ8V_page-0001.jpg": "/Kosy-Portfolio/static/media/Coursera 2B4446VFWQ8V_page-0001.dea89e9863cdc52824b8.jpg",
     "static/media/portrait1.jpg": "/Kosy-Portfolio/static/media/portrait1.b4561032a4eae9f44677.jpg",
     "static/media/IMG_3750.JPG": "/Kosy-Portfolio/static/media/IMG_3750.279eb313b9194feb8536.JPG",
     "static/media/Screenshot (31).png": "/Kosy-Portfolio/static/media/Screenshot (31).b285b91031e45a3b242c.png",
@@ -13,16 +10,18 @@
     "static/media/Screenshot 2.png": "/Kosy-Portfolio/static/media/Screenshot 2.8b972bd4fe008d1aa3be.png",
     "static/media/NEXUS- THE BRAND [Recovered]-022.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-022.9223bf534cff82930c75.jpg",
     "static/media/Screenshot.png": "/Kosy-Portfolio/static/media/Screenshot.9859dac50956a9b08e6a.png",
-    "static/media/MetaFront-EndDeveloperCertificate_Badge20240120-29-j0ys2k_page-0001.jpg": "/Kosy-Portfolio/static/media/MetaFront-EndDeveloperCertificate_Badge20240120-29-j0ys2k_page-0001.880eba99dac66b6221e8.jpg",
+    "static/media/cover7.jpg": "/Kosy-Portfolio/static/media/cover7.c50e199e22134d036d81.jpg",
+    "static/media/ccna_large.jpg": "/Kosy-Portfolio/static/media/ccna_large.72090df9030ad033dc71.jpg",
     "static/media/Screenshot (61).png": "/Kosy-Portfolio/static/media/Screenshot (61).3c1da53107a7cd6551f1.png",
     "static/media/kosyLogo3.png": "/Kosy-Portfolio/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
+    "static/media/meta-front-end-developer-certificate.png": "/Kosy-Portfolio/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
     "index.html": "/Kosy-Portfolio/index.html",
-    "main.fdde5844.css.map": "/Kosy-Portfolio/static/css/main.fdde5844.css.map",
-    "main.61cc1c49.js.map": "/Kosy-Portfolio/static/js/main.61cc1c49.js.map",
+    "main.dc5ec88b.css.map": "/Kosy-Portfolio/static/css/main.dc5ec88b.css.map",
+    "main.a4d97b4f.js.map": "/Kosy-Portfolio/static/js/main.a4d97b4f.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdde5844.css",
-    "static/js/main.61cc1c49.js"
+    "static/css/main.dc5ec88b.css",
+    "static/js/main.a4d97b4f.js"
   ]
 }
