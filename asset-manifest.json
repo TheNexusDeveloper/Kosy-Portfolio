@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Kosy-Portfolio/static/css/main.dc5ec88b.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.a4d97b4f.js",
+    "main.js": "/Kosy-Portfolio/static/js/main.d02eaae4.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
-    "static/media/portrait1.jpg": "/Kosy-Portfolio/static/media/portrait1.b4561032a4eae9f44677.jpg",
+    "static/media/Kosy-cartoon1.png": "/Kosy-Portfolio/static/media/Kosy-cartoon1.981460390056e23103b8.png",
     "static/media/IMG_3750.JPG": "/Kosy-Portfolio/static/media/IMG_3750.279eb313b9194feb8536.JPG",
     "static/media/Screenshot (31).png": "/Kosy-Portfolio/static/media/Screenshot (31).b285b91031e45a3b242c.png",
     "static/media/NEXUS- THE BRAND [Recovered]-02.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-02.179721fd34dcc80ecfa6.jpg",
@@ -17,11 +17,11 @@
     "static/media/meta-front-end-developer-certificate.png": "/Kosy-Portfolio/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
     "index.html": "/Kosy-Portfolio/index.html",
     "main.dc5ec88b.css.map": "/Kosy-Portfolio/static/css/main.dc5ec88b.css.map",
-    "main.a4d97b4f.js.map": "/Kosy-Portfolio/static/js/main.a4d97b4f.js.map",
+    "main.d02eaae4.js.map": "/Kosy-Portfolio/static/js/main.d02eaae4.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc5ec88b.css",
-    "static/js/main.a4d97b4f.js"
+    "static/js/main.d02eaae4.js"
   ]
 }
