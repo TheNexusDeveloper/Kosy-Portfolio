@@ -10,42 +10,48 @@ function ShowCase() {
     const typingSpeed = 100; // Typing speed (in ms)
     const deletingSpeed = 50; // Deleting speed (in ms)
     const pauseBetweenTexts = 1500; // Pause before switching to the next text
-  
+    const textArray = React.useMemo(() => [
+        "Solutions Architect",
+        "Network Engineer",
+        "Cloud Engineer",
+        "Software Developer",
+        "UI/UX Designer",
+    ], []);
+
     useEffect(() => { 
+        let typingTimeout;
+
+        const typeEffect = () => {
+            const fullText = textArray[currentIndex];
+
+            if (isDeleting) {
+                // If deleting, remove characters
+                setCurrentText((prev) => fullText.substring(0, prev.length - 1));
+            } else {
+                // If typing, add characters
+                setCurrentText((prev) => fullText.substring(0, prev.length + 1));
+            }
+
+            // If the text is fully typed, switch to deleting after a pause
+            if (!isDeleting && currentText === fullText) {
+                typingTimeout = setTimeout(() => setIsDeleting(true), pauseBetweenTexts);
+            }
+
+            // If the text is fully deleted, move to the next text
+            if (isDeleting && currentText === '') {
+                setIsDeleting(false);
+                setCurrentIndex((prevIndex) => (prevIndex + 1) % textArray.length); // Loop through the textArray
+            }
+        };
+
+        typingTimeout = setTimeout(
+        typeEffect,
+        isDeleting ? deletingSpeed : typingSpeed
+        );
+
+        return () => clearTimeout(typingTimeout); // Cleanup timeout
+    }, [currentText, isDeleting, currentIndex, textArray]);
   
-      const textArray = [
-          "Network Engineer",
-          "Software Developer",
-          "UI/UX Designer",
-        ];
-        
-      const handleTyping = () => {
-        const fullText = textArray[currentIndex];
-  
-        if (isDeleting) {
-          // Remove characters one by one
-          setCurrentText((prev) => prev.substring(0, prev.length - 1));
-        } else {
-          // Add characters one by one
-          setCurrentText((prev) => fullText.substring(0, prev.length + 1));
-        }
-  
-        // Switch to deleting once full text is typed
-        if (!isDeleting && currentText === fullText) {
-          setTimeout(() => setIsDeleting(true), pauseBetweenTexts);
-        }
-  
-        // Move to the next text once fully deleted
-        if (isDeleting && currentText === "") {
-          setIsDeleting(false);
-          setCurrentIndex((prev) => (prev + 1) % textArray.length);
-        }
-      };
-  
-      const typingInterval = setInterval(handleTyping, isDeleting ? deletingSpeed : typingSpeed);
-  
-      return () => clearInterval(typingInterval); // Cleanup interval
-    }, [currentText, isDeleting, currentIndex]);
   
 
   return (
@@ -56,7 +62,7 @@ function ShowCase() {
                         <h1>I'm Kosy</h1> 
                         <h1>{currentText}| </h1>
                         <p>
-                        I'm a Network Engineer, Software Developer, and UI/UX Designer with expertise in ISP Core networking, scalable web apps, and user-centered designs. 
+                        I am a Solutions Architect and engineer with expertise in creating solutions for secure ISP Core Networks, Cloud and Hybrid Solutions, secure and scalable web apps, and user-centered designs. 
                         My ultimate goal is to create innovative solutions with technology to aid advancements and create an enabling environment for everyone to succeed. 
                         Explore my work and see how I turn ideas into solutions!
                         </p>

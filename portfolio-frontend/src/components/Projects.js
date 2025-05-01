@@ -30,7 +30,7 @@ function Projects() {
                 </Col>
             </Row>
 
-            <Row className='py-3' xs={1} md={2} lg={3} >
+            {/* <Row className='py-3' xs={1} md={2} lg={3} >
                 {MyProjects.map(projects => (
                     <Col key={projects._id} className='py-3 d-flex justify-content-center align-items-center'>
                         <Card  style={{ width: '20rem', height: '22rem', backgroundColor: 'black', color: ' whitesmoke' }}>
@@ -59,7 +59,7 @@ function Projects() {
                   {
                     show === true ? <ProjectDetails title={tempData[1]} image={tempData[2]} category={tempData[3]} stack={tempData[4]} desc={tempData[5]} repo={tempData[6]} demo={tempData[7]}  hide={() => setShow(false)} show={() => setShow(true)}/>: ''
                   }  
-            </Row>
+            </Row> */}
 
         </Container>
 

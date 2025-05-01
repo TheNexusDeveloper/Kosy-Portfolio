@@ -59,9 +59,9 @@ function Header() {
                         </Nav>
                         <Nav className='px-3'>
                             <Nav.Link href="https://github.com/TheNexusDeveloper" target="_blank" rel="noopener"><i class="bi bi-github"></i></Nav.Link>
-                            <Nav.Link href="https://www.linkedin.com/in/kosisochukwu-okeke-505490242/" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></Nav.Link>
+                            <Nav.Link href="https://www.linkedin.com/in/kosisochukwu-okeke" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></Nav.Link>
                             <Nav.Link href="https://twitter.com/iamkosy11" target="_blank" rel="noopener"><i class="bi bi-twitter-x"></i></Nav.Link>
-                            <Nav.Link href="https://www.instagram.com/iamkosy11/" target="_blank" rel="noopener"><i class="bi bi-instagram"></i></Nav.Link>
+                            <Nav.Link href="https://www.instagram.com/iamkosy11" target="_blank" rel="noopener"><i class="bi bi-instagram"></i></Nav.Link>
                             
                         </Nav>
                     </Offcanvas.Body>
