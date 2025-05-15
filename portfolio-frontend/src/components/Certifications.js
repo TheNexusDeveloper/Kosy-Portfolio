@@ -2,6 +2,7 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import ccna from '../assets/ccna_large.jpg'
 import meta from '../assets/meta-front-end-developer-certificate.png'
+import AWS from '../assets/aws-knowledge-architecting.png'
 
 function Certifications() {
   return (
@@ -14,6 +15,15 @@ function Certifications() {
             </Row>
 
            <Row className="text-center py-3" style={{ justifyContent: 'center', alignItems: 'center', margin: 'auto'}}>
+
+           <Col className='py-3 '>
+                <div>
+                        <a href='https://www.credly.com/badges/8edf2d02-6aef-44d0-8e0a-6d3cd7aafc11/linked_in_profile' target='blank'>
+                        <img src={AWS} alt='aws-badge' width="50%"  className='rounded-5' />
+                    </a>
+                </div>
+            </Col>
+
             <Col className='py-3'>
                 <div>
                     <a href='https://www.credly.com/badges/85b400b8-9bb7-450d-b26b-b6b45cc7957d/linked_in_profile' target='blank'>
@@ -30,6 +40,8 @@ function Certifications() {
                     </a>
                 </div>
             </Col>
+
+           
 
             {/* <Col>
                 <div>

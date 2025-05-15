@@ -20,28 +20,21 @@ function About() {
 
             <Col className="py-3" lg={6} md={12} sm={12}>
                 <p>
-                I am a passionate and versatile Solutions Architect with deep expertise in ISP core networks, network design, and service delivery. 
-                I specialize in building and optimizing high-performance network infrastructure that powers reliable internet and cloud services. 
-                From core routing to customer-edge deployments, my focus is on designing scalable, secure, 
-                and customer-centric solutions that meet real-world business needs.
-                    
+                    I have always loved to build stuff and solve problems and this passion has led me to a career in technology. <br/>
+                    I am a Solutions Architect and Computer Engineering Graduate, with a background in Telecommunication Networks and Engineering, Cloud Computing environments, virtualization, software development and service delivery. <br/>
+                    I am a strong advocate for the use of technology to drive innovation and create value, bridging the gap between infrastructure and innovation. 
                 </p>
                     <br/>
                 <p>
-                With a strong foundation in Linux, IT, network support, and cloud environments, I bridge the gap between infrastructure and innovation. 
-                I also develop modern web applications using a tech stack which consists of React, FastApi and Django—bringing full-stack capability to my problem-solving toolkit.
+                    I specialize in building, designing and implementing robust solutions as well as optimizing high-performance network infrastructure that powers reliable internet and cloud services. <br/>
+                    I also develop modern web applications using a tech stack which consists of React, FastApi and Django—bringing full-stack capability to my problem-solving toolkit. <br/>
+                    My focus is on designing scalable, secure, and customer-centric solutions that meet real-world business needs.
                 </p>
                     <br/>
                 <p>
                     Beyond my professional life, outside the world of networks and code, 
                     I'm passionate about music, great food, and fictional superheroes—because every architect needs a little imagination.
                 </p>
-
-                    <br/>
-                <p> 
-                    <i>In an alternate universe, I'm also Batman 🦇</i>
-                </p>
-
             </Col>
 
            
