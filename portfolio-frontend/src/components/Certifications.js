@@ -16,10 +16,10 @@ function Certifications() {
 
            <Row className="text-center py-3" style={{ justifyContent: 'center', alignItems: 'center', margin: 'auto'}}>
 
-           <Col className='py-3 '>
+           <Col className='py-3'>
                 <div>
                         <a href='https://www.credly.com/badges/8edf2d02-6aef-44d0-8e0a-6d3cd7aafc11/linked_in_profile' target='blank'>
-                        <img src={AWS} alt='aws-badge' width="50%"  className='rounded-5' />
+                        <img src={AWS} alt='aws-badge' width="70%"  className='rounded-3' />
                     </a>
                 </div>
             </Col>
@@ -27,7 +27,7 @@ function Certifications() {
             <Col className='py-3'>
                 <div>
                     <a href='https://www.credly.com/badges/85b400b8-9bb7-450d-b26b-b6b45cc7957d/linked_in_profile' target='blank'>
-                        <img src={ccna} alt='ccna' width="50%"  className='rounded-5' />
+                        <img src={ccna} alt='ccna' width="70%"  className='rounded-3' />
                     </a>
                     
                 </div>
@@ -36,7 +36,7 @@ function Certifications() {
             <Col className='py-3'>
                 <div>
                         <a href='https://www.credly.com/badges/cfbc700e-8fdf-40e9-8c33-47f0d8d10a51/linked_in_profile' target='blank'>
-                        <img src={meta} alt='meta' width="50%"  className='rounded-5' />
+                        <img src={meta} alt='meta' width="70%"  className='rounded-3' />
                     </a>
                 </div>
             </Col>
