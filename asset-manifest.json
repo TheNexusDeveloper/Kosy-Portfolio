@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kosy-Portfolio/static/css/main.dc5ec88b.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.dac450e1.js",
+    "main.js": "/Kosy-Portfolio/static/js/main.951e7aa9.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
     "static/media/Kosy-cartoon1.png": "/Kosy-Portfolio/static/media/Kosy-cartoon1.981460390056e23103b8.png",
     "static/media/IMG_3750.JPG": "/Kosy-Portfolio/static/media/IMG_3750.279eb313b9194feb8536.JPG",
@@ -12,17 +12,17 @@
     "static/media/Screenshot.png": "/Kosy-Portfolio/static/media/Screenshot.9859dac50956a9b08e6a.png",
     "static/media/cover7.jpg": "/Kosy-Portfolio/static/media/cover7.c50e199e22134d036d81.jpg",
     "static/media/ccna_large.jpg": "/Kosy-Portfolio/static/media/ccna_large.72090df9030ad033dc71.jpg",
+    "static/media/aws-certified-solutions-architect-associate.png": "/Kosy-Portfolio/static/media/aws-certified-solutions-architect-associate.03cd26ad8844478fe049.png",
     "static/media/Screenshot (61).png": "/Kosy-Portfolio/static/media/Screenshot (61).3c1da53107a7cd6551f1.png",
     "static/media/kosyLogo3.png": "/Kosy-Portfolio/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
-    "static/media/aws-knowledge-architecting.png": "/Kosy-Portfolio/static/media/aws-knowledge-architecting.fd0180e9e75f404dfbae.png",
     "static/media/meta-front-end-developer-certificate.png": "/Kosy-Portfolio/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
     "index.html": "/Kosy-Portfolio/index.html",
     "main.dc5ec88b.css.map": "/Kosy-Portfolio/static/css/main.dc5ec88b.css.map",
-    "main.dac450e1.js.map": "/Kosy-Portfolio/static/js/main.dac450e1.js.map",
+    "main.951e7aa9.js.map": "/Kosy-Portfolio/static/js/main.951e7aa9.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc5ec88b.css",
-    "static/js/main.dac450e1.js"
+    "static/js/main.951e7aa9.js"
   ]
 }
