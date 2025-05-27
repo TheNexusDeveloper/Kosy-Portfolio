@@ -18,7 +18,7 @@ function Certifications() {
 
            <Col className='py-3'>
                 <div>
-                        <a href='https://www.credly.com/badges/8edf2d02-6aef-44d0-8e0a-6d3cd7aafc11/linked_in_profile' target='blank'>
+                        <a href='https://www.credly.com/badges/7e241bd3-6977-4117-a726-99a60ca29e42/public_url' target='blank'>
                         <img src={AWS} alt='aws-badge' width="70%"  className='rounded-3' />
                     </a>
                 </div>
