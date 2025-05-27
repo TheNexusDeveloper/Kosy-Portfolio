@@ -2,7 +2,7 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import ccna from '../assets/ccna_large.jpg'
 import meta from '../assets/meta-front-end-developer-certificate.png'
-import AWS from '../assets/aws-knowledge-architecting.png'
+import AWS from '../assets/aws-certified-solutions-architect-associate.png'
 
 function Certifications() {
   return (
