@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kosy-Portfolio/static/css/main.dc5ec88b.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.2b7d45df.js",
+    "main.js": "/Kosy-Portfolio/static/js/main.d53082ce.js",
     "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
     "static/media/Kosy-cartoon1.png": "/Kosy-Portfolio/static/media/Kosy-cartoon1.981460390056e23103b8.png",
     "static/media/IMG_3750.JPG": "/Kosy-Portfolio/static/media/IMG_3750.279eb313b9194feb8536.JPG",
@@ -18,11 +18,11 @@
     "static/media/meta-front-end-developer-certificate.png": "/Kosy-Portfolio/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
     "index.html": "/Kosy-Portfolio/index.html",
     "main.dc5ec88b.css.map": "/Kosy-Portfolio/static/css/main.dc5ec88b.css.map",
-    "main.2b7d45df.js.map": "/Kosy-Portfolio/static/js/main.2b7d45df.js.map",
+    "main.d53082ce.js.map": "/Kosy-Portfolio/static/js/main.d53082ce.js.map",
     "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc5ec88b.css",
-    "static/js/main.2b7d45df.js"
+    "static/js/main.d53082ce.js"
   ]
 }
