@@ -64,7 +64,7 @@ function Projects() {
         </Container>
 
         <div class="more" >
-                <h2>  <a href="https://github.com/TheNexusDeveloper?tab=repositories">See more awesome projects on Github   <i class="bi bi-github"></i></a></h2>  
+                <h2>  <a href="https://github.com/TheNexusDeveloper?tab=repositories" target="_blank" rel='noreferrer'>See more awesome projects on Github   <i class="bi bi-github"></i></a></h2>  
                     
         </div>
     </div>

@@ -20,8 +20,8 @@ function About() {
 
             <Col className="py-3" lg={6} md={12} sm={12}>
                 <p>
-                    I have always loved to build stuff and solve problems and this passion has led me to a career in technology. <br/>
-                    I am a Solutions Architect and Computer Engineering Graduate, with a background in Telecommunication Networks and Engineering, Cloud Computing environments, virtualization, software development and service delivery. <br/>
+                    I love building stuff and solving problems and this passion has led me to a career in technology. <br/>
+                    I am a Solutions Architect and Computer Engineering Graduate, with a background in Data and Telecommunications Network Engineering, Cloud Computing environments, virtualization, software development and service delivery. <br/>
                     I am a strong advocate for the use of technology to drive innovation and create value, bridging the gap between infrastructure and innovation. 
                 </p>
                     <br/>
