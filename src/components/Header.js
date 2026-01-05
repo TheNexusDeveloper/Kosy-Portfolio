@@ -7,7 +7,7 @@ function Header() {
     // const [linkColor, setLinkColor] = useState('dark');
     const [navbarBg, setNavbarBg] = useState('transparent');
     // const [isMobile, setIsMobile] = useState('')
-    const [margin, setMargin] = useState('20px');
+    const [ setMargin] = useState('20px');
 
     const handleScroll = () => {
         const scrollY = window.scrollY;
@@ -38,7 +38,7 @@ function Header() {
     <div style={{width: '100%',}}>
         <Navbar collapseOnSelect expand="lg" fixed='top'  bg={navbarBg}  variant='dark' className="mb-3" style={{   }}>
             <Container>
-                <Navbar.Brand href="/Kosy-Portfolio/">
+                <Navbar.Brand href="/">
                     <img src={logo} alt='Kosy Logo' width='120px'/>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="offcanvasNavbar" />

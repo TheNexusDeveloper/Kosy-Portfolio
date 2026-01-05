@@ -1,25 +1,25 @@
-import React, {useState} from 'react'
-import { Row, Col, Container, Card, Button} from 'react-bootstrap'
+import React from 'react'
+import { Row, Col, Container} from 'react-bootstrap'
 // import { Link } from 'react-router-dom'
-import MyProjects from '../ProjectsDB'
-import ProjectDetails from './ProjectDetails'
+// import MyProjects from '../ProjectsDB'
+// import ProjectDetails from './ProjectDetails'
 
 function Projects() {
 
-    const [tempData, setTempData] = useState([])
-    const [show, setShow] = useState(false);
+    // const [tempData, setTempData] = useState([])
+    // const [show, setShow] = useState(false);
     // const handleClose = () => setShow(false);
     // const handleShow = () => setShow(true);
 
 
-    const getData = (title, image, desc, category, stack, repo, demo) => {
-        let tempData = [title, image, desc, category, stack, repo, demo];
-        setTempData(projects => [1, ...tempData])
+    // const getData = (title, image, desc, category, stack, repo, demo) => {
+    //     let tempData = [title, image, desc, category, stack, repo, demo];
+    //     setTempData(projects => [1, ...tempData])
 
-        // console.log(tempData)
+    //     // console.log(tempData)
 
-       return setShow(true)
-    }
+    //    return setShow(true)
+    // }
 
   return (
     <div id='Projects' className='py-3'>
