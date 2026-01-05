@@ -53,7 +53,7 @@ function Footer() {
                 <Col>
                     <a href="https://www.flaticon.com" title="html icons">icons created by Freepik - Flaticon</a> <br/>
                     <p>Brand logo styled and Designed by <span><em><a href='https://www.instagram.com/theartof_cho/' style={{textDecoration: 'dotted', color: 'blue'}}>The Art of CHO</a></em></span></p>
-                    <p>&copy; Kosy Okeke 2025</p>
+                    <p>&copy; Kosy Okeke 2026</p>
                 </Col>
             </Row>
         </Container>
