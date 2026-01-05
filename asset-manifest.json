@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Kosy-Portfolio/static/css/main.dc5ec88b.css",
-    "main.js": "/Kosy-Portfolio/static/js/main.d53082ce.js",
-    "static/js/453.4a91d8c7.chunk.js": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js",
-    "static/media/Kosy-cartoon1.png": "/Kosy-Portfolio/static/media/Kosy-cartoon1.981460390056e23103b8.png",
-    "static/media/IMG_3750.JPG": "/Kosy-Portfolio/static/media/IMG_3750.279eb313b9194feb8536.JPG",
-    "static/media/Screenshot (31).png": "/Kosy-Portfolio/static/media/Screenshot (31).b285b91031e45a3b242c.png",
-    "static/media/NEXUS- THE BRAND [Recovered]-02.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-02.179721fd34dcc80ecfa6.jpg",
-    "static/media/Screenshot 2.png": "/Kosy-Portfolio/static/media/Screenshot 2.8b972bd4fe008d1aa3be.png",
-    "static/media/NEXUS- THE BRAND [Recovered]-022.jpg": "/Kosy-Portfolio/static/media/NEXUS- THE BRAND [Recovered]-022.9223bf534cff82930c75.jpg",
-    "static/media/Screenshot.png": "/Kosy-Portfolio/static/media/Screenshot.9859dac50956a9b08e6a.png",
-    "static/media/cover7.jpg": "/Kosy-Portfolio/static/media/cover7.c50e199e22134d036d81.jpg",
-    "static/media/ccna_large.jpg": "/Kosy-Portfolio/static/media/ccna_large.72090df9030ad033dc71.jpg",
-    "static/media/aws-certified-solutions-architect-associate.png": "/Kosy-Portfolio/static/media/aws-certified-solutions-architect-associate.03cd26ad8844478fe049.png",
-    "static/media/Screenshot (61).png": "/Kosy-Portfolio/static/media/Screenshot (61).3c1da53107a7cd6551f1.png",
-    "static/media/kosyLogo3.png": "/Kosy-Portfolio/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
-    "static/media/meta-front-end-developer-certificate.png": "/Kosy-Portfolio/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
-    "index.html": "/Kosy-Portfolio/index.html",
-    "main.dc5ec88b.css.map": "/Kosy-Portfolio/static/css/main.dc5ec88b.css.map",
-    "main.d53082ce.js.map": "/Kosy-Portfolio/static/js/main.d53082ce.js.map",
-    "453.4a91d8c7.chunk.js.map": "/Kosy-Portfolio/static/js/453.4a91d8c7.chunk.js.map"
+    "main.css": "/static/css/main.4faabc2b.css",
+    "main.js": "/static/js/main.53ffc82a.js",
+    "static/js/453.4a91d8c7.chunk.js": "/static/js/453.4a91d8c7.chunk.js",
+    "static/media/Kosy-cartoon1.png": "/static/media/Kosy-cartoon1.981460390056e23103b8.png",
+    "static/media/IMG_3750.JPG": "/static/media/IMG_3750.279eb313b9194feb8536.JPG",
+    "static/media/Screenshot (31).png": "/static/media/Screenshot (31).b285b91031e45a3b242c.png",
+    "static/media/NEXUS- THE BRAND [Recovered]-02.jpg": "/static/media/NEXUS- THE BRAND [Recovered]-02.179721fd34dcc80ecfa6.jpg",
+    "static/media/Screenshot 2.png": "/static/media/Screenshot 2.8b972bd4fe008d1aa3be.png",
+    "static/media/NEXUS- THE BRAND [Recovered]-022.jpg": "/static/media/NEXUS- THE BRAND [Recovered]-022.9223bf534cff82930c75.jpg",
+    "static/media/Screenshot.png": "/static/media/Screenshot.9859dac50956a9b08e6a.png",
+    "static/media/cover7.jpg": "/static/media/cover7.c50e199e22134d036d81.jpg",
+    "static/media/ccna_large.jpg": "/static/media/ccna_large.72090df9030ad033dc71.jpg",
+    "static/media/aws-certified-solutions-architect-associate.png": "/static/media/aws-certified-solutions-architect-associate.03cd26ad8844478fe049.png",
+    "static/media/Screenshot (61).png": "/static/media/Screenshot (61).3c1da53107a7cd6551f1.png",
+    "static/media/kosyLogo3.png": "/static/media/kosyLogo3.4ef6becfaa9c4af6f922.png",
+    "static/media/meta-front-end-developer-certificate.png": "/static/media/meta-front-end-developer-certificate.849cd62ac2c1990a22fb.png",
+    "index.html": "/index.html",
+    "main.4faabc2b.css.map": "/static/css/main.4faabc2b.css.map",
+    "main.53ffc82a.js.map": "/static/js/main.53ffc82a.js.map",
+    "453.4a91d8c7.chunk.js.map": "/static/js/453.4a91d8c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc5ec88b.css",
-    "static/js/main.d53082ce.js"
+    "static/css/main.4faabc2b.css",
+    "static/js/main.53ffc82a.js"
   ]
 }
